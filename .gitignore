@@ -29,10 +29,13 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Python virtual environments
-.env/
-.venv/
+.env
+.venv
 env/
 venv/
+ENV/
+env.bak/
+venv.bak/
 
 # Pytest
 .pytest_cache/
